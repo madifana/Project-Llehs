@@ -1,2 +1,5 @@
 # Project Llehs
- reverse shell multi handler
+  Welcome to Project Llehs!
+    This is a reverse shell multi handler. This project came into existance because of the unusually high number of people now working from home.  Many of these now remote workers lack the technical background their new situation requires. Trying to guide a user over the phone, or even video chat, can be a very frustrating and time consuming effort.  Project Llehs was designed to be a simple solution to address this.  It allows an IT professional to connect directly to a remote client computer and make necessary changes on that computer as if he were typing on that client's keyboard in person.  It also has the ability to connect to multiple computers at the same time and switch between them as necessary.  This would be useful to a System Administrator who might have to perform maintenance tasks, such as installing security patches or updates, on multiple machines.
+
+In order for this to run properly, the 'server.py' file must be ran from the host computer first, and the 'client.py' file must be run from the client computer.
